@@ -248,3 +248,20 @@
   justify-content: space-between;
   align-items: center;
 }
+.star {
+  background: url(../img/background3.jpg) center center/cover no-repeat;
+}
+.help {
+  height: 414px;
+  background-color: #000000;
+  padding-top: 113px;
+}
+.help .add-title {
+  width: 571px;
+  text-align: center;
+  margin: 0 auto;
+}
+.help .btn {
+  margin: 0 auto;
+  margin-top: 22px;
+}
