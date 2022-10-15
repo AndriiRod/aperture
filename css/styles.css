@@ -128,12 +128,13 @@
 .add-title_aboutSec {
   text-align: center;
 }
-.about-section_text {
+.litle-title {
   font-size: 23px;
   line-height: 30px;
   color: #c0c0c0;
   text-align: center;
   margin-top: 15px;
+  font-weight: 400;
 }
 .about-section_box {
   margin-top: 40px;
@@ -230,4 +231,20 @@
 }
 .monstera {
   background: url(../img/background2.jpg) center center/cover no-repeat;
+}
+.clients {
+  height: 500px;
+  background-color: #000000;
+  padding-top: 120px;
+}
+.clients .add-title {
+  text-align: center;
+}
+.client-wrapper {
+  width: 1080px;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 80px;
+  justify-content: space-between;
+  align-items: center;
 }
