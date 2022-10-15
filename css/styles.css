@@ -228,3 +228,6 @@
   color: white;
   margin-bottom: 20px;
 }
+.monstera {
+  background: url(../img/background2.jpg) center center/cover no-repeat;
+}
