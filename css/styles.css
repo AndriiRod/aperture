@@ -206,3 +206,25 @@
 .sub-title_showcase {
   color: white;
 }
+.tools {
+  position: relative;
+  height: 540px;
+  background: #000000 url(../img/bac.jpg) right no-repeat;
+  padding-top: 173px;
+  padding-left: 100px;
+}
+.tools-wrapper {
+  width: 514px;
+}
+.tools-title {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-top: 6px;
+  margin-bottom: 14px;
+}
+.tools-description {
+  color: white;
+  margin-bottom: 20px;
+}
