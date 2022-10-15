@@ -189,3 +189,20 @@
   height: 32px;
   background: url(../icons/octogon.svg) center center/cover no-repeat;
 }
+.showcase {
+  height: 600px;
+  position: relative;
+}
+.mount {
+  background: url(../img/background1.jpg) center center/cover no-repeat;
+}
+.showcase-description {
+  width: 298px;
+  position: absolute;
+  right: 62px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.sub-title_showcase {
+  color: white;
+}
